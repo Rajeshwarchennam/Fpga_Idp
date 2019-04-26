@@ -1,0 +1,12 @@
+set_io seg[0] A5
+set_io seg[1] A2
+set_io seg[2] C3
+set_io seg[3] B4
+set_io seg[4] B7
+set_io seg[5] B6
+set_io seg[6] B3
+set_io s0 D8
+set_io s1 B9
+set_io s2 B10
+set_io in B11
+
