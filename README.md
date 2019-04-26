@@ -1,2 +1,2 @@
 # Fpga_Idp
-Demux
+4 bit alu,Demux
