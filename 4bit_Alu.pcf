@@ -1,0 +1,21 @@
+set_io A[3] A5
+set_io A[2] A2
+set_io A[1] C3
+set_io A[0] B4
+set_io B[3] B7
+set_io B[2] B6
+set_io B[1] B3
+set_io B[0] B5
+set_io Sel[3] D8
+set_io Sel[2] B9
+set_io Sel[1] B10
+set_io Sel[0] B11
+set_io Out[0] B8
+set_io Out[1] A9
+set_io Out[2] A10
+set_io Out[3] A11
+set_io Out[4] T14
+
+
+
+
